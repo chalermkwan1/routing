@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <h2>
         I definitely understand NOTHING!
+        lolol;ololololol
     </h2>
   `,
   styles: []
